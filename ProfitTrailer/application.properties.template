@@ -1,0 +1,31 @@
+################## application.properties #########################
+################### VERSION CONTROL ###############################
+###################################################################
+### Read the wiki for more explanations about the properties    ###
+### https://wiki.profittrailer.io                               ###
+###################################################################
+###################################################################
+
+server.port = 8081
+trading.exchange = BINANCE
+server.enableConfig = true
+
+#Put here your activated API key.
+#This API key is also use to read YOUR balances and trade history
+default_apiKey = lol
+default_apiSecret = lol
+
+#Put here a second api key that will be used to do all the buying and selling.
+#This api key does NOT need to be activated
+trading_apiKey = lol
+trading_apiSecret = lol 
+
+server.timeZoneOffset = +01:00
+server.password = lol
+
+# how many days of log history to show?
+trading.logHistory = 31
+
+#OPTIONAL
+telegram.botToken = 
+telegram.chatId = 
