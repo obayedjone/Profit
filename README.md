@@ -13,7 +13,7 @@ Go the the folder
 
 Run:
 ```
- install.sh
+ bash install.sh
 ```
 
 and have fun..
