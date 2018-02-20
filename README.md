@@ -1,3 +1,6 @@
 ## Profit installer 
 
-Run install.sh and have fun..
+Run:
+ install.sh
+ 
+and have fun..
